@@ -160,3 +160,8 @@ cython_debug/
 #.idea/
 
 .DS_Store
+*.pdf
+*.h5ad
+
+results/
+data/
